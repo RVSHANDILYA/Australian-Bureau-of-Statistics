@@ -16,7 +16,7 @@
 
 ## Overview
 
-This repository contains two comprehensive Python projects developed for CITS1401, focusing on analyzing Australian demographic and population data. Both projects demonstrate advanced data processing, statistical analysis, and algorithmic problem-solving skills using only core Python features (no external libraries).
+This repository contains two comprehensive Python projects focusing on analyzing Australian demographic and population data. Both projects demonstrate advanced data processing, statistical analysis, and algorithmic problem-solving skills using only core Python features (no external libraries).
 
 The projects work with real-world Australian Bureau of Statistics (ABS) data, processing CSV files containing population information across different statistical areas (SA2, SA3) and states, providing valuable insights for urban planning and resource allocation decisions.
 
