@@ -1,0 +1,539 @@
+SA2 code,SA2 name,SA3 code,SA3 name,S_T code,S_T name
+401011001,Adelaide,40101,Adelaide City,4,South Australia
+401011002,North Adelaide,40101,Adelaide City,4,South Australia
+401021003,Adelaide Hills,40102,Adelaide Hills,4,South Australia
+401021004,Aldgate - Stirling,40102,Adelaide Hills,4,South Australia
+401021005,Hahndorf - Echunga,40102,Adelaide Hills,4,South Australia
+401021006,Lobethal - Woodside,40102,Adelaide Hills,4,South Australia
+401021007,Mount Barker,40102,Adelaide Hills,4,South Australia
+401021008,Mount Barker Surrounds,40102,Adelaide Hills,4,South Australia
+401021009,Nairne,40102,Adelaide Hills,4,South Australia
+401021010,Uraidla - Summertown,40102,Adelaide Hills,4,South Australia
+401031011,Burnside - Wattle Park,40103,Burnside,4,South Australia
+401031012,Beaumont - Glen Osmond,40103,Burnside,4,South Australia
+401031013,Toorak Gardens,40103,Burnside,4,South Australia
+401041014,Athelstone,40104,Campbelltown (SA),4,South Australia
+401041015,Paradise - Newton,40104,Campbelltown (SA),4,South Australia
+401041016,Rostrevor - Magill,40104,Campbelltown (SA),4,South Australia
+401051017,Norwood (SA),40105,Norwood - Payneham - St Peters,4,South Australia
+401051018,Payneham - Felixstow,40105,Norwood - Payneham - St Peters,4,South Australia
+401051019,St Peters - Marden,40105,Norwood - Payneham - St Peters,4,South Australia
+401061020,Nailsworth - Broadview,40106,Prospect - Walkerville,4,South Australia
+401061021,Prospect,40106,Prospect - Walkerville,4,South Australia
+401061022,Walkerville,40106,Prospect - Walkerville,4,South Australia
+401071023,Goodwood - Millswood,40107,Unley,4,South Australia
+401071024,Unley - Parkside,40107,Unley,4,South Australia
+402011025,Gawler - North,40201,Gawler - Two Wells,4,South Australia
+402011026,Gawler - South,40201,Gawler - Two Wells,4,South Australia
+402011027,Lewiston - Two Wells,40201,Gawler - Two Wells,4,South Australia
+402021028,Craigmore - Blakeview,40202,Playford,4,South Australia
+402021029,Davoren Park,40202,Playford,4,South Australia
+402021030,Elizabeth,40202,Playford,4,South Australia
+402021031,Elizabeth East,40202,Playford,4,South Australia
+402021032,Munno Para West - Angle Vale,40202,Playford,4,South Australia
+402021033,One Tree Hill,40202,Playford,4,South Australia
+402021034,Smithfield - Elizabeth North,40202,Playford,4,South Australia
+402021035,Virginia - Waterloo Corner,40202,Playford,4,South Australia
+402031036,Enfield - Blair Athol,40203,Port Adelaide - East,4,South Australia
+402031038,Windsor Gardens,40203,Port Adelaide - East,4,South Australia
+402031175,Northgate - Northfield,40203,Port Adelaide - East,4,South Australia
+402031176,Valley View - Gilles Plains,40203,Port Adelaide - East,4,South Australia
+402041039,Dry Creek - North,40204,Salisbury,4,South Australia
+402041040,Ingle Farm,40204,Salisbury,4,South Australia
+402041041,Para Hills,40204,Salisbury,4,South Australia
+402041042,Parafield,40204,Salisbury,4,South Australia
+402041043,Parafield Gardens,40204,Salisbury,4,South Australia
+402041044,Paralowie,40204,Salisbury,4,South Australia
+402041046,Salisbury,40204,Salisbury,4,South Australia
+402041047,Salisbury East,40204,Salisbury,4,South Australia
+402041048,Salisbury North,40204,Salisbury,4,South Australia
+402041171,Mawson Lakes - Globe Derby Park,40204,Salisbury,4,South Australia
+402041172,Pooraka - Cavan,40204,Salisbury,4,South Australia
+402051049,Golden Grove,40205,Tea Tree Gully,4,South Australia
+402051050,Greenwith,40205,Tea Tree Gully,4,South Australia
+402051051,Highbury - Dernancourt,40205,Tea Tree Gully,4,South Australia
+402051052,Hope Valley - Modbury,40205,Tea Tree Gully,4,South Australia
+402051053,Modbury Heights,40205,Tea Tree Gully,4,South Australia
+402051054,Redwood Park,40205,Tea Tree Gully,4,South Australia
+402051055,St Agnes - Ridgehaven,40205,Tea Tree Gully,4,South Australia
+403011056,Brighton (SA),40301,Holdfast Bay,4,South Australia
+403011057,Glenelg (SA),40301,Holdfast Bay,4,South Australia
+403021058,Edwardstown,40302,Marion,4,South Australia
+403021059,Hallett Cove,40302,Marion,4,South Australia
+403021060,Marino - Seaview Downs,40302,Marion,4,South Australia
+403021061,Mitchell Park,40302,Marion,4,South Australia
+403021062,Morphettville,40302,Marion,4,South Australia
+403021063,Sheidow Park - Trott Park,40302,Marion,4,South Australia
+403021064,Warradale,40302,Marion,4,South Australia
+403031065,Belair,40303,Mitcham,4,South Australia
+403031066,Bellevue Heights,40303,Mitcham,4,South Australia
+403031067,Blackwood,40303,Mitcham,4,South Australia
+403031068,Colonel Light Gardens,40303,Mitcham,4,South Australia
+403031069,Mitcham (SA),40303,Mitcham,4,South Australia
+403031070,Panorama,40303,Mitcham,4,South Australia
+403041071,Aberfoyle Park,40304,Onkaparinga,4,South Australia
+403041072,Aldinga,40304,Onkaparinga,4,South Australia
+403041073,Christie Downs,40304,Onkaparinga,4,South Australia
+403041074,Christies Beach,40304,Onkaparinga,4,South Australia
+403041075,Clarendon,40304,Onkaparinga,4,South Australia
+403041076,Coromandel Valley,40304,Onkaparinga,4,South Australia
+403041077,Flagstaff Hill,40304,Onkaparinga,4,South Australia
+403041078,Hackham - Onkaparinga Hills,40304,Onkaparinga,4,South Australia
+403041079,Hackham West - Huntfield Heights,40304,Onkaparinga,4,South Australia
+403041080,Happy Valley,40304,Onkaparinga,4,South Australia
+403041081,Happy Valley Reservoir,40304,Onkaparinga,4,South Australia
+403041082,Lonsdale,40304,Onkaparinga,4,South Australia
+403041083,McLaren Vale,40304,Onkaparinga,4,South Australia
+403041084,Morphett Vale - East,40304,Onkaparinga,4,South Australia
+403041085,Morphett Vale - West,40304,Onkaparinga,4,South Australia
+403041086,Reynella,40304,Onkaparinga,4,South Australia
+403041088,Willunga,40304,Onkaparinga,4,South Australia
+403041089,Woodcroft,40304,Onkaparinga,4,South Australia
+403041177,Seaford - Seaford Meadows,40304,Onkaparinga,4,South Australia
+403041178,Seaford Rise - Moana,40304,Onkaparinga,4,South Australia
+404011090,Beverley,40401,Charles Sturt,4,South Australia
+404011091,Flinders Park,40401,Charles Sturt,4,South Australia
+404011092,Henley Beach,40401,Charles Sturt,4,South Australia
+404011093,Hindmarsh - Brompton,40401,Charles Sturt,4,South Australia
+404011094,Royal Park - Hendon - Albert Park,40401,Charles Sturt,4,South Australia
+404011095,Seaton - Grange,40401,Charles Sturt,4,South Australia
+404011096,West Lakes,40401,Charles Sturt,4,South Australia
+404011097,Woodville - Cheltenham,40401,Charles Sturt,4,South Australia
+404021098,Dry Creek - South,40402,Port Adelaide - West,4,South Australia
+404021099,Largs Bay - Semaphore,40402,Port Adelaide - West,4,South Australia
+404021100,North Haven,40402,Port Adelaide - West,4,South Australia
+404021101,Port Adelaide,40402,Port Adelaide - West,4,South Australia
+404021102,The Parks,40402,Port Adelaide - West,4,South Australia
+404021103,Torrens Island,40402,Port Adelaide - West,4,South Australia
+404031104,Adelaide Airport,40403,West Torrens,4,South Australia
+404031105,Fulham,40403,West Torrens,4,South Australia
+404031106,Lockleys,40403,West Torrens,4,South Australia
+404031107,Plympton,40403,West Torrens,4,South Australia
+404031108,Richmond (SA),40403,West Torrens,4,South Australia
+404031109,West Beach,40403,West Torrens,4,South Australia
+405011110,Barossa - Angaston,40501,Barossa,4,South Australia
+405011111,Light,40501,Barossa,4,South Australia
+405011112,Lyndoch,40501,Barossa,4,South Australia
+405011113,Mallala,40501,Barossa,4,South Australia
+405011114,Nuriootpa,40501,Barossa,4,South Australia
+405011115,Tanunda,40501,Barossa,4,South Australia
+405021116,Clare,40502,Lower North,4,South Australia
+405021117,Gilbert Valley,40502,Lower North,4,South Australia
+405021118,Goyder,40502,Lower North,4,South Australia
+405021119,Wakefield - Barunga West,40502,Lower North,4,South Australia
+405031120,Jamestown,40503,Mid North,4,South Australia
+405031121,Peterborough - Mount Remarkable,40503,Mid North,4,South Australia
+405031122,Port Pirie,40503,Mid North,4,South Australia
+405031123,Port Pirie Surrounds,40503,Mid North,4,South Australia
+405041124,Kadina,40504,Yorke Peninsula,4,South Australia
+405041125,Moonta,40504,Yorke Peninsula,4,South Australia
+405041126,Wallaroo,40504,Yorke Peninsula,4,South Australia
+405041127,Yorke Peninsula - North,40504,Yorke Peninsula,4,South Australia
+405041128,Yorke Peninsula - South,40504,Yorke Peninsula,4,South Australia
+406011129,Ceduna,40601,Eyre Peninsula and South West,4,South Australia
+406011130,Eyre Peninsula,40601,Eyre Peninsula and South West,4,South Australia
+406011131,Kimba - Cleve - Franklin Harbour,40601,Eyre Peninsula and South West,4,South Australia
+406011132,Le Hunte - Elliston,40601,Eyre Peninsula and South West,4,South Australia
+406011133,Port Lincoln,40601,Eyre Peninsula and South West,4,South Australia
+406011134,West Coast (SA),40601,Eyre Peninsula and South West,4,South Australia
+406011135,Western,40601,Eyre Peninsula and South West,4,South Australia
+406011136,Whyalla,40601,Eyre Peninsula and South West,4,South Australia
+406011137,Whyalla - North,40601,Eyre Peninsula and South West,4,South Australia
+406021138,APY Lands,40602,Outback - North and East,4,South Australia
+406021139,Coober Pedy,40602,Outback - North and East,4,South Australia
+406021140,Quorn - Lake Gilles,40602,Outback - North and East,4,South Australia
+406021141,Outback,40602,Outback - North and East,4,South Australia
+406021142,Port Augusta,40602,Outback - North and East,4,South Australia
+406021143,Roxby Downs,40602,Outback - North and East,4,South Australia
+407011144,Goolwa - Port Elliot,40701,Fleurieu - Kangaroo Island,4,South Australia
+407011145,Kangaroo Island,40701,Fleurieu - Kangaroo Island,4,South Australia
+407011146,Strathalbyn,40701,Fleurieu - Kangaroo Island,4,South Australia
+407011147,Strathalbyn Surrounds,40701,Fleurieu - Kangaroo Island,4,South Australia
+407011148,Victor Harbor,40701,Fleurieu - Kangaroo Island,4,South Australia
+407011149,Yankalilla,40701,Fleurieu - Kangaroo Island,4,South Australia
+407021150,Grant,40702,Limestone Coast,4,South Australia
+407021151,Kingston - Robe,40702,Limestone Coast,4,South Australia
+407021152,Millicent,40702,Limestone Coast,4,South Australia
+407021154,Naracoorte,40702,Limestone Coast,4,South Australia
+407021155,Naracoorte Surrounds,40702,Limestone Coast,4,South Australia
+407021156,Penola,40702,Limestone Coast,4,South Australia
+407021157,Tatiara,40702,Limestone Coast,4,South Australia
+407021158,Wattle Range,40702,Limestone Coast,4,South Australia
+407021173,Mount Gambier - East,40702,Limestone Coast,4,South Australia
+407021174,Mount Gambier - West,40702,Limestone Coast,4,South Australia
+407031159,Barmera,40703,Murray and Mallee,4,South Australia
+407031160,Berri,40703,Murray and Mallee,4,South Australia
+407031161,Karoonda - Lameroo,40703,Murray and Mallee,4,South Australia
+407031162,Loxton,40703,Murray and Mallee,4,South Australia
+407031163,Loxton Surrounds,40703,Murray and Mallee,4,South Australia
+407031164,Mannum,40703,Murray and Mallee,4,South Australia
+407031165,Murray Bridge,40703,Murray and Mallee,4,South Australia
+407031166,Murray Bridge Surrounds,40703,Murray and Mallee,4,South Australia
+407031167,Renmark,40703,Murray and Mallee,4,South Australia
+407031168,Renmark Surrounds,40703,Murray and Mallee,4,South Australia
+407031169,The Coorong,40703,Murray and Mallee,4,South Australia
+407031170,Waikerie,40703,Murray and Mallee,4,South Australia
+501011001,Augusta,50101,Augusta - Margaret River - Busselton,5,Western Australia
+501011003,Busselton Surrounds,50101,Augusta - Margaret River - Busselton,5,Western Australia
+501011004,Margaret River,50101,Augusta - Margaret River - Busselton,5,Western Australia
+501011293,Busselton - East,50101,Augusta - Margaret River - Busselton,5,Western Australia
+501011294,Busselton - West,50101,Augusta - Margaret River - Busselton,5,Western Australia
+501021005,Australind - Leschenault,50102,Bunbury,5,Western Australia
+501021007,Capel,50102,Bunbury,5,Western Australia
+501021008,College Grove - Carey Park,50102,Bunbury,5,Western Australia
+501021009,Collie,50102,Bunbury,5,Western Australia
+501021010,Dardanup,50102,Bunbury,5,Western Australia
+501021011,Davenport,50102,Bunbury,5,Western Australia
+501021012,Eaton - Pelican Point,50102,Bunbury,5,Western Australia
+501021014,Harvey,50102,Bunbury,5,Western Australia
+501021015,East Bunbury - Glen Iris,50102,Bunbury,5,Western Australia
+501021016,Waroona,50102,Bunbury,5,Western Australia
+501021251,Dalyellup,50102,Bunbury,5,Western Australia
+501021252,Gelorup - Stratham,50102,Bunbury,5,Western Australia
+501021253,South Bunbury - Bunbury,50102,Bunbury,5,Western Australia
+501021254,Withers - Usher,50102,Bunbury,5,Western Australia
+501031017,Bridgetown - Boyup Brook,50103,Manjimup,5,Western Australia
+501031018,Donnybrook - Balingup,50103,Manjimup,5,Western Australia
+501031019,Manjimup,50103,Manjimup,5,Western Australia
+501031020,Pemberton,50103,Manjimup,5,Western Australia
+502011021,Dawesville - Bouvard,50201,Mandurah,5,Western Australia
+502011022,Falcon - Wannanup,50201,Mandurah,5,Western Australia
+502011023,Greenfields,50201,Mandurah,5,Western Australia
+502011024,Halls Head - Erskine,50201,Mandurah,5,Western Australia
+502011025,Mandurah,50201,Mandurah,5,Western Australia
+502011026,Mandurah - East,50201,Mandurah,5,Western Australia
+502011027,Mandurah - North,50201,Mandurah,5,Western Australia
+502011028,Mandurah - South,50201,Mandurah,5,Western Australia
+502011029,Pinjarra,50201,Mandurah,5,Western Australia
+503011030,City Beach,50301,Cottesloe - Claremont,5,Western Australia
+503011031,Claremont (WA),50301,Cottesloe - Claremont,5,Western Australia
+503011032,Cottesloe,50301,Cottesloe - Claremont,5,Western Australia
+503011033,Floreat,50301,Cottesloe - Claremont,5,Western Australia
+503011034,Mosman Park - Peppermint Grove,50301,Cottesloe - Claremont,5,Western Australia
+503011035,Nedlands - Dalkeith - Crawley,50301,Cottesloe - Claremont,5,Western Australia
+503011036,Swanbourne - Mount Claremont,50301,Cottesloe - Claremont,5,Western Australia
+503021037,Kings Park (WA),50302,Perth City,5,Western Australia
+503021038,Mount Hawthorn - Leederville,50302,Perth City,5,Western Australia
+503021039,Mount Lawley - Inglewood,50302,Perth City,5,Western Australia
+503021040,North Perth,50302,Perth City,5,Western Australia
+503021042,Subiaco - Shenton Park,50302,Perth City,5,Western Australia
+503021043,Wembley - West Leederville - Glendalough,50302,Perth City,5,Western Australia
+503021295,East Perth,50302,Perth City,5,Western Australia
+503021296,Perth (North) - Highgate,50302,Perth City,5,Western Australia
+503021297,Perth (West) - Northbridge,50302,Perth City,5,Western Australia
+504011044,Bassendean - Eden Hill - Ashfield,50401,Bayswater - Bassendean,5,Western Australia
+504011045,Bayswater - Embleton - Bedford,50401,Bayswater - Bassendean,5,Western Australia
+504011046,Maylands,50401,Bayswater - Bassendean,5,Western Australia
+504011047,Morley,50401,Bayswater - Bassendean,5,Western Australia
+504011048,Noranda,50401,Bayswater - Bassendean,5,Western Australia
+504021049,Chidlow,50402,Mundaring,5,Western Australia
+504021050,Glen Forrest - Darlington,50402,Mundaring,5,Western Australia
+504021051,Helena Valley - Koongamia,50402,Mundaring,5,Western Australia
+504021052,Malmalling - Reservoir,50402,Mundaring,5,Western Australia
+504021053,Mundaring,50402,Mundaring,5,Western Australia
+504021054,Swan View - Greenmount - Midvale,50402,Mundaring,5,Western Australia
+504031055,Avon Valley National Park,50403,Swan,5,Western Australia
+504031056,Ballajura,50403,Swan,5,Western Australia
+504031057,Beechboro,50403,Swan,5,Western Australia
+504031058,Bullsbrook,50403,Swan,5,Western Australia
+504031060,Gidgegannup,50403,Swan,5,Western Australia
+504031061,Hazelmere - Guildford,50403,Swan,5,Western Australia
+504031062,Lockridge - Kiara,50403,Swan,5,Western Australia
+504031063,Malaga,50403,Swan,5,Western Australia
+504031064,Melaleuca - Lexia,50403,Swan,5,Western Australia
+504031065,Middle Swan - Herne Hill,50403,Swan,5,Western Australia
+504031066,Midland - Guildford,50403,Swan,5,Western Australia
+504031067,Stratton - Jane Brook,50403,Swan,5,Western Australia
+504031068,The Vines,50403,Swan,5,Western Australia
+504031069,Walyunga National Park,50403,Swan,5,Western Australia
+504031298,Aveley,50403,Swan,5,Western Australia
+504031299,Brabham - Henley Brook,50403,Swan,5,Western Australia
+504031300,Ellenbrook,50403,Swan,5,Western Australia
+505011070,Craigie - Beldon,50501,Joondalup,5,Western Australia
+505011071,Currambine - Kinross,50501,Joondalup,5,Western Australia
+505011072,Duncraig,50501,Joondalup,5,Western Australia
+505011073,Greenwood - Warwick,50501,Joondalup,5,Western Australia
+505011074,Heathridge - Connolly,50501,Joondalup,5,Western Australia
+505011075,Hillarys,50501,Joondalup,5,Western Australia
+505011076,Iluka - Burns Beach,50501,Joondalup,5,Western Australia
+505011077,Joondalup - Edgewater,50501,Joondalup,5,Western Australia
+505011078,Kingsley,50501,Joondalup,5,Western Australia
+505011079,Mullaloo - Kallaroo,50501,Joondalup,5,Western Australia
+505011080,Ocean Reef,50501,Joondalup,5,Western Australia
+505011081,Padbury,50501,Joondalup,5,Western Australia
+505011082,Sorrento - Marmion,50501,Joondalup,5,Western Australia
+505011083,Woodvale,50501,Joondalup,5,Western Australia
+505021084,Balcatta - Hamersley,50502,Stirling,5,Western Australia
+505021085,Balga - Mirrabooka,50502,Stirling,5,Western Australia
+505021087,Herdsman,50502,Stirling,5,Western Australia
+505021088,Innaloo - Doubleview,50502,Stirling,5,Western Australia
+505021089,Karrinyup - Gwelup - Carine,50502,Stirling,5,Western Australia
+505021090,Nollamara - Westminster,50502,Stirling,5,Western Australia
+505021091,Osborne Park Industrial,50502,Stirling,5,Western Australia
+505021092,Scarborough,50502,Stirling,5,Western Australia
+505021093,Stirling - Osborne Park,50502,Stirling,5,Western Australia
+505021094,Trigg - North Beach - Watermans Bay,50502,Stirling,5,Western Australia
+505021095,Tuart Hill - Joondanna,50502,Stirling,5,Western Australia
+505021096,Wembley Downs - Churchlands - Woodlands,50502,Stirling,5,Western Australia
+505021097,Yokine - Coolbinia - Menora,50502,Stirling,5,Western Australia
+505021301,Dianella - North,50502,Stirling,5,Western Australia
+505021302,Dianella - South,50502,Stirling,5,Western Australia
+505031098,Alexander Heights - Koondoola,50503,Wanneroo,5,Western Australia
+505031099,Butler - Merriwa - Ridgewood,50503,Wanneroo,5,Western Australia
+505031100,Carramar,50503,Wanneroo,5,Western Australia
+505031101,Clarkson,50503,Wanneroo,5,Western Australia
+505031102,Girrawheen,50503,Wanneroo,5,Western Australia
+505031104,Marangaroo,50503,Wanneroo,5,Western Australia
+505031105,Mindarie - Quinns Rocks - Jindalee,50503,Wanneroo,5,Western Australia
+505031106,Neerabup National Park,50503,Wanneroo,5,Western Australia
+505031107,Tapping - Ashby - Sinagra,50503,Wanneroo,5,Western Australia
+505031255,Alkimos - Eglinton,50503,Wanneroo,5,Western Australia
+505031256,Carabooda - Pinjar,50503,Wanneroo,5,Western Australia
+505031257,Two Rocks,50503,Wanneroo,5,Western Australia
+505031258,Yanchep,50503,Wanneroo,5,Western Australia
+505031303,Hocking - Pearsall,50503,Wanneroo,5,Western Australia
+505031304,Landsdale,50503,Wanneroo,5,Western Australia
+505031305,Madeley - Darch,50503,Wanneroo,5,Western Australia
+505031306,Wanneroo - Sinagra,50503,Wanneroo,5,Western Australia
+506011110,Armadale - Wungong - Brookdale,50601,Armadale,5,Western Australia
+506011111,Ashendon - Lesley,50601,Armadale,5,Western Australia
+506011112,Camillo - Champion Lakes,50601,Armadale,5,Western Australia
+506011114,Kelmscott,50601,Armadale,5,Western Australia
+506011115,Mount Nasura - Mount Richon - Bedfordale,50601,Armadale,5,Western Australia
+506011116,Roleystone,50601,Armadale,5,Western Australia
+506011117,Seville Grove,50601,Armadale,5,Western Australia
+506011307,Harrisdale,50601,Armadale,5,Western Australia
+506011308,Piara Waters - Forrestdale,50601,Armadale,5,Western Australia
+506021118,Belmont - Ascot - Redcliffe,50602,Belmont - Victoria Park,5,Western Australia
+506021119,East Victoria Park - Carlisle,50602,Belmont - Victoria Park,5,Western Australia
+506021120,Kewdale Commercial,50602,Belmont - Victoria Park,5,Western Australia
+506021121,Perth Airport,50602,Belmont - Victoria Park,5,Western Australia
+506021123,Victoria Park - Lathlain - Burswood,50602,Belmont - Victoria Park,5,Western Australia
+506021309,Cloverdale,50602,Belmont - Victoria Park,5,Western Australia
+506021310,Kewdale,50602,Belmont - Victoria Park,5,Western Australia
+506021311,Rivervale,50602,Belmont - Victoria Park,5,Western Australia
+506031124,Bentley - Wilson - St James,50603,Canning,5,Western Australia
+506031125,Canning Vale - West,50603,Canning,5,Western Australia
+506031126,Canning Vale Commercial,50603,Canning,5,Western Australia
+506031127,Cannington - Queens Park,50603,Canning,5,Western Australia
+506031128,Parkwood - Ferndale - Lynwood,50603,Canning,5,Western Australia
+506031129,Riverton - Shelley - Rossmoyne,50603,Canning,5,Western Australia
+506031130,Welshpool,50603,Canning,5,Western Australia
+506031131,Willetton,50603,Canning,5,Western Australia
+506041132,Beckenham - Kenwick - Langford,50604,Gosnells,5,Western Australia
+506041133,Canning Vale - East,50604,Gosnells,5,Western Australia
+506041134,Gosnells,50604,Gosnells,5,Western Australia
+506041135,Huntingdale - Southern River,50604,Gosnells,5,Western Australia
+506041136,Maddington - Orange Grove - Martin,50604,Gosnells,5,Western Australia
+506041137,Thornlie,50604,Gosnells,5,Western Australia
+506051138,Forrestfield - Wattle Grove,50605,Kalamunda,5,Western Australia
+506051139,High Wycombe,50605,Kalamunda,5,Western Australia
+506051140,Kalamunda - Maida Vale - Gooseberry Hill,50605,Kalamunda,5,Western Australia
+506051141,Lesmurdie - Bickley - Carmel,50605,Kalamunda,5,Western Australia
+506061142,Byford,50606,Serpentine - Jarrahdale,5,Western Australia
+506061143,Mundijong,50606,Serpentine - Jarrahdale,5,Western Australia
+506061144,Serpentine - Jarrahdale,50606,Serpentine - Jarrahdale,5,Western Australia
+506071145,Como,50607,South Perth,5,Western Australia
+506071146,Manning - Waterford,50607,South Perth,5,Western Australia
+506071147,South Perth - Kensington,50607,South Perth,5,Western Australia
+507011148,Banjup,50701,Cockburn,5,Western Australia
+507011150,Bibra Industrial,50701,Cockburn,5,Western Australia
+507011151,Bibra Lake,50701,Cockburn,5,Western Australia
+507011152,Coogee,50701,Cockburn,5,Western Australia
+507011153,Coolbellup,50701,Cockburn,5,Western Australia
+507011154,Hamilton Hill,50701,Cockburn,5,Western Australia
+507011155,Henderson,50701,Cockburn,5,Western Australia
+507011158,North Coogee,50701,Cockburn,5,Western Australia
+507011159,South Lake - Cockburn Central,50701,Cockburn,5,Western Australia
+507011160,Spearwood,50701,Cockburn,5,Western Australia
+507011161,Success - Hammond Park,50701,Cockburn,5,Western Australia
+507011163,Yangebup,50701,Cockburn,5,Western Australia
+507011259,Beeliar - Wattleup,50701,Cockburn,5,Western Australia
+507011260,Jandakot,50701,Cockburn,5,Western Australia
+507021164,East Fremantle,50702,Fremantle,5,Western Australia
+507021165,Fremantle,50702,Fremantle,5,Western Australia
+507021166,Fremantle - South,50702,Fremantle,5,Western Australia
+507021167,O`Connor (WA),50702,Fremantle,5,Western Australia
+507031169,Wellard (West) - Bertram,50703,Kwinana,5,Western Australia
+507031170,Calista,50703,Kwinana,5,Western Australia
+507031172,Hope Valley - Postans,50703,Kwinana,5,Western Australia
+507031173,Kwinana Industrial,50703,Kwinana,5,Western Australia
+507031174,Parmelia - Orelia,50703,Kwinana,5,Western Australia
+507031261,Casuarina - Wandi,50703,Kwinana,5,Western Australia
+507041175,Applecross - Ardross,50704,Melville,5,Western Australia
+507041176,Bateman,50704,Melville,5,Western Australia
+507041177,Bicton - Palmyra,50704,Melville,5,Western Australia
+507041178,Booragoon,50704,Melville,5,Western Australia
+507041179,Bull Creek,50704,Melville,5,Western Australia
+507041180,Leeming,50704,Melville,5,Western Australia
+507041181,Melville,50704,Melville,5,Western Australia
+507041182,Murdoch - Kardinya,50704,Melville,5,Western Australia
+507041183,Willagee,50704,Melville,5,Western Australia
+507041184,Winthrop,50704,Melville,5,Western Australia
+507051186,Cooloongup,50705,Rockingham,5,Western Australia
+507051187,Port Kennedy,50705,Rockingham,5,Western Australia
+507051188,Rockingham,50705,Rockingham,5,Western Australia
+507051189,Rockingham Lakes,50705,Rockingham,5,Western Australia
+507051190,Safety Bay - Shoalwater,50705,Rockingham,5,Western Australia
+507051191,Singleton - Golden Bay - Secret Harbour,50705,Rockingham,5,Western Australia
+507051192,Waikiki,50705,Rockingham,5,Western Australia
+507051193,Warnbro,50705,Rockingham,5,Western Australia
+507051312,Baldivis - North,50705,Rockingham,5,Western Australia
+507051313,Baldivis - South,50705,Rockingham,5,Western Australia
+507051314,Karnup,50705,Rockingham,5,Western Australia
+509011225,Albany,50901,Albany,5,Western Australia
+509011226,Albany Surrounds,50901,Albany,5,Western Australia
+509011227,Bayonet Head - Lower King,50901,Albany,5,Western Australia
+509011228,Denmark,50901,Albany,5,Western Australia
+509011229,Gnowangerup,50901,Albany,5,Western Australia
+509011230,Katanning,50901,Albany,5,Western Australia
+509011231,Kojonup,50901,Albany,5,Western Australia
+509011232,Little Grove - Elleker,50901,Albany,5,Western Australia
+509011233,McKail - Willyung,50901,Albany,5,Western Australia
+509011234,Plantagenet,50901,Albany,5,Western Australia
+509011235,Stirling Range National Park,50901,Albany,5,Western Australia
+509021236,Chittering,50902,Wheat Belt - North,5,Western Australia
+509021237,Cunderdin,50902,Wheat Belt - North,5,Western Australia
+509021238,Dowerin,50902,Wheat Belt - North,5,Western Australia
+509021239,Gingin - Dandaragan,50902,Wheat Belt - North,5,Western Australia
+509021240,Merredin,50902,Wheat Belt - North,5,Western Australia
+509021241,Moora,50902,Wheat Belt - North,5,Western Australia
+509021242,Mukinbudin,50902,Wheat Belt - North,5,Western Australia
+509021243,Northam,50902,Wheat Belt - North,5,Western Australia
+509021244,Toodyay,50902,Wheat Belt - North,5,Western Australia
+509021245,York - Beverley,50902,Wheat Belt - North,5,Western Australia
+509031246,Brookton,50903,Wheat Belt - South,5,Western Australia
+509031247,Kulin,50903,Wheat Belt - South,5,Western Australia
+509031248,Murray,50903,Wheat Belt - South,5,Western Australia
+509031249,Narrogin,50903,Wheat Belt - South,5,Western Australia
+509031250,Wagin,50903,Wheat Belt - South,5,Western Australia
+510011262,Broome,51001,Kimberley,5,Western Australia
+510011263,Derby - West Kimberley,51001,Kimberley,5,Western Australia
+510011264,Halls Creek,51001,Kimberley,5,Western Australia
+510011265,Kununurra,51001,Kimberley,5,Western Australia
+510011266,Roebuck,51001,Kimberley,5,Western Australia
+510021267,East Pilbara,51002,East Pilbara,5,Western Australia
+510021268,Newman,51002,East Pilbara,5,Western Australia
+510021269,Port Hedland,51002,East Pilbara,5,Western Australia
+510021270,South Hedland,51002,East Pilbara,5,Western Australia
+510031271,Ashburton (WA),51003,West Pilbara,5,Western Australia
+510031272,Karratha,51003,West Pilbara,5,Western Australia
+510031273,Roebourne,51003,West Pilbara,5,Western Australia
+511011274,Esperance,51101,Esperance,5,Western Australia
+511011275,Esperance Surrounds,51101,Esperance,5,Western Australia
+511021276,Carnarvon,51102,Gascoyne,5,Western Australia
+511021277,Exmouth,51102,Gascoyne,5,Western Australia
+511031278,Boulder,51103,Goldfields,5,Western Australia
+511031279,Kalgoorlie,51103,Goldfields,5,Western Australia
+511031280,Kalgoorlie - North,51103,Goldfields,5,Western Australia
+511031281,Kalgoorlie Airport,51103,Goldfields,5,Western Australia
+511031282,Kambalda - Coolgardie - Norseman,51103,Goldfields,5,Western Australia
+511031283,Leinster - Leonora,51103,Goldfields,5,Western Australia
+511031284,Trafalgar (WA),51103,Goldfields,5,Western Australia
+511041285,Geraldton,51104,Mid West,5,Western Australia
+511041286,Geraldton - East,51104,Mid West,5,Western Australia
+511041287,Geraldton - North,51104,Mid West,5,Western Australia
+511041288,Geraldton - South,51104,Mid West,5,Western Australia
+511041289,Irwin,51104,Mid West,5,Western Australia
+511041290,Meekatharra,51104,Mid West,5,Western Australia
+511041291,Morawa,51104,Mid West,5,Western Australia
+511041292,Northampton - Mullewa - Greenough,51104,Mid West,5,Western Australia
+601011001,Bridgewater - Gagebrook,60101,Brighton,6,Tasmania
+601011002,Brighton - Pontville,60101,Brighton,6,Tasmania
+601011003,Old Beach - Otago,60101,Brighton,6,Tasmania
+601021004,Bellerive - Rosny,60102,Hobart - North East,6,Tasmania
+601021005,Cambridge,60102,Hobart - North East,6,Tasmania
+601021006,Geilston Bay - Risdon,60102,Hobart - North East,6,Tasmania
+601021007,Howrah - Tranmere,60102,Hobart - North East,6,Tasmania
+601021008,Lindisfarne - Rose Bay,60102,Hobart - North East,6,Tasmania
+601021009,Mornington - Warrane,60102,Hobart - North East,6,Tasmania
+601021010,Risdon Vale,60102,Hobart - North East,6,Tasmania
+601021011,Rokeby,60102,Hobart - North East,6,Tasmania
+601021012,South Arm,60102,Hobart - North East,6,Tasmania
+601031013,Austins Ferry - Granton,60103,Hobart - North West,6,Tasmania
+601031014,Berriedale - Chigwell,60103,Hobart - North West,6,Tasmania
+601031015,Claremont (Tas.),60103,Hobart - North West,6,Tasmania
+601031016,Derwent Park - Lutana,60103,Hobart - North West,6,Tasmania
+601031017,Glenorchy,60103,Hobart - North West,6,Tasmania
+601031018,Montrose - Rosetta,60103,Hobart - North West,6,Tasmania
+601031019,Moonah,60103,Hobart - North West,6,Tasmania
+601031020,New Norfolk,60103,Hobart - North West,6,Tasmania
+601031021,West Moonah,60103,Hobart - North West,6,Tasmania
+601041022,Kingston - Huntingfield,60104,Hobart - South and West,6,Tasmania
+601041023,Kingston Beach - Blackmans Bay,60104,Hobart - South and West,6,Tasmania
+601041024,Margate - Snug,60104,Hobart - South and West,6,Tasmania
+601041025,Mount Wellington,60104,Hobart - South and West,6,Tasmania
+601041026,Taroona - Bonnet Hill,60104,Hobart - South and West,6,Tasmania
+601051027,Hobart,60105,Hobart Inner,6,Tasmania
+601051028,Lenah Valley - Mount Stuart,60105,Hobart Inner,6,Tasmania
+601051029,Mount Nelson - Dynnyrne,60105,Hobart Inner,6,Tasmania
+601051030,New Town,60105,Hobart Inner,6,Tasmania
+601051031,Sandy Bay,60105,Hobart Inner,6,Tasmania
+601051032,South Hobart - Fern Tree,60105,Hobart Inner,6,Tasmania
+601051033,West Hobart,60105,Hobart Inner,6,Tasmania
+601061034,Dodges Ferry - Lewisham,60106,Sorell - Dodges Ferry,6,Tasmania
+601061035,Sorell - Richmond,60106,Sorell - Dodges Ferry,6,Tasmania
+602011036,Invermay,60201,Launceston,6,Tasmania
+602011037,Kings Meadows - Punchbowl,60201,Launceston,6,Tasmania
+602011038,Launceston,60201,Launceston,6,Tasmania
+602011039,Legana,60201,Launceston,6,Tasmania
+602011040,Mowbray,60201,Launceston,6,Tasmania
+602011041,Newnham - Mayfield,60201,Launceston,6,Tasmania
+602011042,Newstead,60201,Launceston,6,Tasmania
+602011043,Norwood (Tas.),60201,Launceston,6,Tasmania
+602011044,Prospect Vale - Blackstone,60201,Launceston,6,Tasmania
+602011045,Ravenswood,60201,Launceston,6,Tasmania
+602011046,Riverside,60201,Launceston,6,Tasmania
+602011047,South Launceston,60201,Launceston,6,Tasmania
+602011048,Summerhill - Prospect,60201,Launceston,6,Tasmania
+602011049,Trevallyn,60201,Launceston,6,Tasmania
+602011050,Waverley - St Leonards,60201,Launceston,6,Tasmania
+602011051,West Launceston,60201,Launceston,6,Tasmania
+602011052,Youngtown - Relbia,60201,Launceston,6,Tasmania
+602021053,Beauty Point - Beaconsfield,60202,Meander Valley - West Tamar,6,Tasmania
+602021054,Deloraine,60202,Meander Valley - West Tamar,6,Tasmania
+602021055,Grindelwald - Lanena,60202,Meander Valley - West Tamar,6,Tasmania
+602021056,Hadspen - Carrick,60202,Meander Valley - West Tamar,6,Tasmania
+602021057,Westbury,60202,Meander Valley - West Tamar,6,Tasmania
+602031058,Dilston - Lilydale,60203,North East,6,Tasmania
+602031059,George Town,60203,North East,6,Tasmania
+602031060,Longford,60203,North East,6,Tasmania
+602031061,Northern Midlands,60203,North East,6,Tasmania
+602031062,Perth - Evandale,60203,North East,6,Tasmania
+602031064,St Helens - Scamander,60203,North East,6,Tasmania
+602031099,Flinders and Cape Barren Islands,60203,North East,6,Tasmania
+602031100,Scottsdale - Bridport,60203,North East,6,Tasmania
+603011065,Central Highlands,60301,Central Highlands (Tas.),6,Tasmania
+603011066,Derwent Valley,60301,Central Highlands (Tas.),6,Tasmania
+603011067,Southern Midlands,60301,Central Highlands (Tas.),6,Tasmania
+603011068,Wilderness - East,60301,Central Highlands (Tas.),6,Tasmania
+603021069,Bruny Island - Kettering,60302,Huon - Bruny Island,6,Tasmania
+603021070,Cygnet,60302,Huon - Bruny Island,6,Tasmania
+603021071,Geeveston - Dover,60302,Huon - Bruny Island,6,Tasmania
+603021072,Huonville - Franklin,60302,Huon - Bruny Island,6,Tasmania
+603031073,Forestier - Tasman,60303,South East Coast,6,Tasmania
+603031074,Triabunna - Bicheno,60303,South East Coast,6,Tasmania
+604011075,Acton - Upper Burnie,60401,Burnie - Ulverstone,6,Tasmania
+604011076,Burnie - Ulverstone Surrounds,60401,Burnie - Ulverstone,6,Tasmania
+604011077,Burnie - Wivenhoe,60401,Burnie - Ulverstone,6,Tasmania
+604011078,Parklands - Camdale,60401,Burnie - Ulverstone,6,Tasmania
+604011079,Penguin - Sulphur Creek,60401,Burnie - Ulverstone,6,Tasmania
+604011080,Romaine - Havenview,60401,Burnie - Ulverstone,6,Tasmania
+604011081,Somerset,60401,Burnie - Ulverstone,6,Tasmania
+604011082,Ulverstone,60401,Burnie - Ulverstone,6,Tasmania
+604011083,West Ulverstone,60401,Burnie - Ulverstone,6,Tasmania
+604011084,Wynyard,60401,Burnie - Ulverstone,6,Tasmania
+604021085,Devonport,60402,Devonport,6,Tasmania
+604021086,East Devonport,60402,Devonport,6,Tasmania
+604021087,Latrobe,60402,Devonport,6,Tasmania
+604021088,Miandetta - Don,60402,Devonport,6,Tasmania
+604021089,Port Sorell,60402,Devonport,6,Tasmania
+604021090,Quoiba - Spreyton,60402,Devonport,6,Tasmania
+604021091,Sheffield - Railton,60402,Devonport,6,Tasmania
+604021092,Turners Beach - Forth,60402,Devonport,6,Tasmania
+604031093,King Island,60403,West Coast,6,Tasmania
+604031094,North West,60403,West Coast,6,Tasmania
+604031095,Smithton,60403,West Coast,6,Tasmania
+604031096,Waratah,60403,West Coast,6,Tasmania
+604031097,West Coast (Tas.),60403,West Coast,6,Tasmania
+604031098,Wilderness - West,60403,West Coast,6,Tasmania

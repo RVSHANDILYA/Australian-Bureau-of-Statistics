@@ -1,0 +1,539 @@
+S_T code,S_T name,SA3 code,SA3 name,SA2 code,SA2 name
+4,South Australia,40101,Adelaide City,401011001,Adelaide
+4,South Australia,40101,Adelaide City,401011002,North Adelaide
+4,South Australia,40102,Adelaide Hills,401021003,Adelaide Hills
+4,South Australia,40102,Adelaide Hills,401021004,Aldgate - Stirling
+4,South Australia,40102,Adelaide Hills,401021005,Hahndorf - Echunga
+4,South Australia,40102,Adelaide Hills,401021006,Lobethal - Woodside
+4,South Australia,40102,Adelaide Hills,401021007,Mount Barker
+4,South Australia,40102,Adelaide Hills,401021008,Mount Barker Surrounds
+4,South Australia,40102,Adelaide Hills,401021009,Nairne
+4,South Australia,40102,Adelaide Hills,401021010,Uraidla - Summertown
+4,South Australia,40103,Burnside,401031011,Burnside - Wattle Park
+4,South Australia,40103,Burnside,401031012,Beaumont - Glen Osmond
+4,South Australia,40103,Burnside,401031013,Toorak Gardens
+4,South Australia,40104,Campbelltown (SA),401041014,Athelstone
+4,South Australia,40104,Campbelltown (SA),401041015,Paradise - Newton
+4,South Australia,40104,Campbelltown (SA),401041016,Rostrevor - Magill
+4,South Australia,40105,Norwood - Payneham - St Peters,401051017,Norwood (SA)
+4,South Australia,40105,Norwood - Payneham - St Peters,401051018,Payneham - Felixstow
+4,South Australia,40105,Norwood - Payneham - St Peters,401051019,St Peters - Marden
+4,South Australia,40106,Prospect - Walkerville,401061020,Nailsworth - Broadview
+4,South Australia,40106,Prospect - Walkerville,401061021,Prospect
+4,South Australia,40106,Prospect - Walkerville,401061022,Walkerville
+4,South Australia,40107,Unley,401071023,Goodwood - Millswood
+4,South Australia,40107,Unley,401071024,Unley - Parkside
+4,South Australia,40201,Gawler - Two Wells,402011025,Gawler - North
+4,South Australia,40201,Gawler - Two Wells,402011026,Gawler - South
+4,South Australia,40201,Gawler - Two Wells,402011027,Lewiston - Two Wells
+4,South Australia,40202,Playford,402021028,Craigmore - Blakeview
+4,South Australia,40202,Playford,402021029,Davoren Park
+4,South Australia,40202,Playford,402021030,Elizabeth
+4,South Australia,40202,Playford,402021031,Elizabeth East
+4,South Australia,40202,Playford,402021032,Munno Para West - Angle Vale
+4,South Australia,40202,Playford,402021033,One Tree Hill
+4,South Australia,40202,Playford,402021034,Smithfield - Elizabeth North
+4,South Australia,40202,Playford,402021035,Virginia - Waterloo Corner
+4,South Australia,40203,Port Adelaide - East,402031036,Enfield - Blair Athol
+4,South Australia,40203,Port Adelaide - East,402031038,Windsor Gardens
+4,South Australia,40203,Port Adelaide - East,402031175,Northgate - Northfield
+4,South Australia,40203,Port Adelaide - East,402031176,Valley View - Gilles Plains
+4,South Australia,40204,Salisbury,402041039,Dry Creek - North
+4,South Australia,40204,Salisbury,402041040,Ingle Farm
+4,South Australia,40204,Salisbury,402041041,Para Hills
+4,South Australia,40204,Salisbury,402041042,Parafield
+4,South Australia,40204,Salisbury,402041043,Parafield Gardens
+4,South Australia,40204,Salisbury,402041044,Paralowie
+4,South Australia,40204,Salisbury,402041046,Salisbury
+4,South Australia,40204,Salisbury,402041047,Salisbury East
+4,South Australia,40204,Salisbury,402041048,Salisbury North
+4,South Australia,40204,Salisbury,402041171,Mawson Lakes - Globe Derby Park
+4,South Australia,40204,Salisbury,402041172,Pooraka - Cavan
+4,South Australia,40205,Tea Tree Gully,402051049,Golden Grove
+4,South Australia,40205,Tea Tree Gully,402051050,Greenwith
+4,South Australia,40205,Tea Tree Gully,402051051,Highbury - Dernancourt
+4,South Australia,40205,Tea Tree Gully,402051052,Hope Valley - Modbury
+4,South Australia,40205,Tea Tree Gully,402051053,Modbury Heights
+4,South Australia,40205,Tea Tree Gully,402051054,Redwood Park
+4,South Australia,40205,Tea Tree Gully,402051055,St Agnes - Ridgehaven
+4,South Australia,40301,Holdfast Bay,403011056,Brighton (SA)
+4,South Australia,40301,Holdfast Bay,403011057,Glenelg (SA)
+4,South Australia,40302,Marion,403021058,Edwardstown
+4,South Australia,40302,Marion,403021059,Hallett Cove
+4,South Australia,40302,Marion,403021060,Marino - Seaview Downs
+4,South Australia,40302,Marion,403021061,Mitchell Park
+4,South Australia,40302,Marion,403021062,Morphettville
+4,South Australia,40302,Marion,403021063,Sheidow Park - Trott Park
+4,South Australia,40302,Marion,403021064,Warradale
+4,South Australia,40303,Mitcham,403031065,Belair
+4,South Australia,40303,Mitcham,403031066,Bellevue Heights
+4,South Australia,40303,Mitcham,403031067,Blackwood
+4,South Australia,40303,Mitcham,403031068,Colonel Light Gardens
+4,South Australia,40303,Mitcham,403031069,Mitcham (SA)
+4,South Australia,40303,Mitcham,403031070,Panorama
+4,South Australia,40304,Onkaparinga,403041071,Aberfoyle Park
+4,South Australia,40304,Onkaparinga,403041072,Aldinga
+4,South Australia,40304,Onkaparinga,403041073,Christie Downs
+4,South Australia,40304,Onkaparinga,403041074,Christies Beach
+4,South Australia,40304,Onkaparinga,403041075,Clarendon
+4,South Australia,40304,Onkaparinga,403041076,Coromandel Valley
+4,South Australia,40304,Onkaparinga,403041077,Flagstaff Hill
+4,South Australia,40304,Onkaparinga,403041078,Hackham - Onkaparinga Hills
+4,South Australia,40304,Onkaparinga,403041079,Hackham West - Huntfield Heights
+4,South Australia,40304,Onkaparinga,403041080,Happy Valley
+4,South Australia,40304,Onkaparinga,403041081,Happy Valley Reservoir
+4,South Australia,40304,Onkaparinga,403041082,Lonsdale
+4,South Australia,40304,Onkaparinga,403041083,McLaren Vale
+4,South Australia,40304,Onkaparinga,403041084,Morphett Vale - East
+4,South Australia,40304,Onkaparinga,403041085,Morphett Vale - West
+4,South Australia,40304,Onkaparinga,403041086,Reynella
+4,South Australia,40304,Onkaparinga,403041088,Willunga
+4,South Australia,40304,Onkaparinga,403041089,Woodcroft
+4,South Australia,40304,Onkaparinga,403041177,Seaford - Seaford Meadows
+4,South Australia,40304,Onkaparinga,403041178,Seaford Rise - Moana
+4,South Australia,40401,Charles Sturt,404011090,Beverley
+4,South Australia,40401,Charles Sturt,404011091,Flinders Park
+4,South Australia,40401,Charles Sturt,404011092,Henley Beach
+4,South Australia,40401,Charles Sturt,404011093,Hindmarsh - Brompton
+4,South Australia,40401,Charles Sturt,404011094,Royal Park - Hendon - Albert Park
+4,South Australia,40401,Charles Sturt,404011095,Seaton - Grange
+4,South Australia,40401,Charles Sturt,404011096,West Lakes
+4,South Australia,40401,Charles Sturt,404011097,Woodville - Cheltenham
+4,South Australia,40402,Port Adelaide - West,404021098,Dry Creek - South
+4,South Australia,40402,Port Adelaide - West,404021099,Largs Bay - Semaphore
+4,South Australia,40402,Port Adelaide - West,404021100,North Haven
+4,South Australia,40402,Port Adelaide - West,404021101,Port Adelaide
+4,South Australia,40402,Port Adelaide - West,404021102,The Parks
+4,South Australia,40402,Port Adelaide - West,404021103,Torrens Island
+4,South Australia,40403,West Torrens,404031104,Adelaide Airport
+4,South Australia,40403,West Torrens,404031105,Fulham
+4,South Australia,40403,West Torrens,404031106,Lockleys
+4,South Australia,40403,West Torrens,404031107,Plympton
+4,South Australia,40403,West Torrens,404031108,Richmond (SA)
+4,South Australia,40403,West Torrens,404031109,West Beach
+4,South Australia,40501,Barossa,405011110,Barossa - Angaston
+4,South Australia,40501,Barossa,405011111,Light
+4,South Australia,40501,Barossa,405011112,Lyndoch
+4,South Australia,40501,Barossa,405011113,Mallala
+4,South Australia,40501,Barossa,405011114,Nuriootpa
+4,South Australia,40501,Barossa,405011115,Tanunda
+4,South Australia,40502,Lower North,405021116,Clare
+4,South Australia,40502,Lower North,405021117,Gilbert Valley
+4,South Australia,40502,Lower North,405021118,Goyder
+4,South Australia,40502,Lower North,405021119,Wakefield - Barunga West
+4,South Australia,40503,Mid North,405031120,Jamestown
+4,South Australia,40503,Mid North,405031121,Peterborough - Mount Remarkable
+4,South Australia,40503,Mid North,405031122,Port Pirie
+4,South Australia,40503,Mid North,405031123,Port Pirie Surrounds
+4,South Australia,40504,Yorke Peninsula,405041124,Kadina
+4,South Australia,40504,Yorke Peninsula,405041125,Moonta
+4,South Australia,40504,Yorke Peninsula,405041126,Wallaroo
+4,South Australia,40504,Yorke Peninsula,405041127,Yorke Peninsula - North
+4,South Australia,40504,Yorke Peninsula,405041128,Yorke Peninsula - South
+4,South Australia,40601,Eyre Peninsula and South West,406011129,Ceduna
+4,South Australia,40601,Eyre Peninsula and South West,406011130,Eyre Peninsula
+4,South Australia,40601,Eyre Peninsula and South West,406011131,Kimba - Cleve - Franklin Harbour
+4,South Australia,40601,Eyre Peninsula and South West,406011132,Le Hunte - Elliston
+4,South Australia,40601,Eyre Peninsula and South West,406011133,Port Lincoln
+4,South Australia,40601,Eyre Peninsula and South West,406011134,West Coast (SA)
+4,South Australia,40601,Eyre Peninsula and South West,406011135,Western
+4,South Australia,40601,Eyre Peninsula and South West,406011136,Whyalla
+4,South Australia,40601,Eyre Peninsula and South West,406011137,Whyalla - North
+4,South Australia,40602,Outback - North and East,406021138,APY Lands
+4,South Australia,40602,Outback - North and East,406021139,Coober Pedy
+4,South Australia,40602,Outback - North and East,406021140,Quorn - Lake Gilles
+4,South Australia,40602,Outback - North and East,406021141,Outback
+4,South Australia,40602,Outback - North and East,406021142,Port Augusta
+4,South Australia,40602,Outback - North and East,406021143,Roxby Downs
+4,South Australia,40701,Fleurieu - Kangaroo Island,407011144,Goolwa - Port Elliot
+4,South Australia,40701,Fleurieu - Kangaroo Island,407011145,Kangaroo Island
+4,South Australia,40701,Fleurieu - Kangaroo Island,407011146,Strathalbyn
+4,South Australia,40701,Fleurieu - Kangaroo Island,407011147,Strathalbyn Surrounds
+4,South Australia,40701,Fleurieu - Kangaroo Island,407011148,Victor Harbor
+4,South Australia,40701,Fleurieu - Kangaroo Island,407011149,Yankalilla
+4,South Australia,40702,Limestone Coast,407021150,Grant
+4,South Australia,40702,Limestone Coast,407021151,Kingston - Robe
+4,South Australia,40702,Limestone Coast,407021152,Millicent
+4,South Australia,40702,Limestone Coast,407021154,Naracoorte
+4,South Australia,40702,Limestone Coast,407021155,Naracoorte Surrounds
+4,South Australia,40702,Limestone Coast,407021156,Penola
+4,South Australia,40702,Limestone Coast,407021157,Tatiara
+4,South Australia,40702,Limestone Coast,407021158,Wattle Range
+4,South Australia,40702,Limestone Coast,407021173,Mount Gambier - East
+4,South Australia,40702,Limestone Coast,407021174,Mount Gambier - West
+4,South Australia,40703,Murray and Mallee,407031159,Barmera
+4,South Australia,40703,Murray and Mallee,407031160,Berri
+4,South Australia,40703,Murray and Mallee,407031161,Karoonda - Lameroo
+4,South Australia,40703,Murray and Mallee,407031162,Loxton
+4,South Australia,40703,Murray and Mallee,407031163,Loxton Surrounds
+4,South Australia,40703,Murray and Mallee,407031164,Mannum
+4,South Australia,40703,Murray and Mallee,407031165,Murray Bridge
+4,South Australia,40703,Murray and Mallee,407031166,Murray Bridge Surrounds
+4,South Australia,40703,Murray and Mallee,407031167,Renmark
+4,South Australia,40703,Murray and Mallee,407031168,Renmark Surrounds
+4,South Australia,40703,Murray and Mallee,407031169,The Coorong
+4,South Australia,40703,Murray and Mallee,407031170,Waikerie
+5,Western Australia,50101,Augusta - Margaret River - Busselton,501011001,Augusta
+5,Western Australia,50101,Augusta - Margaret River - Busselton,501011003,Busselton Surrounds
+5,Western Australia,50101,Augusta - Margaret River - Busselton,501011004,Margaret River
+5,Western Australia,50101,Augusta - Margaret River - Busselton,501011293,Busselton - East
+5,Western Australia,50101,Augusta - Margaret River - Busselton,501011294,Busselton - West
+5,Western Australia,50102,Bunbury,501021005,Australind - Leschenault
+5,Western Australia,50102,Bunbury,501021007,Capel
+5,Western Australia,50102,Bunbury,501021008,College Grove - Carey Park
+5,Western Australia,50102,Bunbury,501021009,Collie
+5,Western Australia,50102,Bunbury,501021010,Dardanup
+5,Western Australia,50102,Bunbury,501021011,Davenport
+5,Western Australia,50102,Bunbury,501021012,Eaton - Pelican Point
+5,Western Australia,50102,Bunbury,501021014,Harvey
+5,Western Australia,50102,Bunbury,501021015,East Bunbury - Glen Iris
+5,Western Australia,50102,Bunbury,501021016,Waroona
+5,Western Australia,50102,Bunbury,501021251,Dalyellup
+5,Western Australia,50102,Bunbury,501021252,Gelorup - Stratham
+5,Western Australia,50102,Bunbury,501021253,South Bunbury - Bunbury
+5,Western Australia,50102,Bunbury,501021254,Withers - Usher
+5,Western Australia,50103,Manjimup,501031017,Bridgetown - Boyup Brook
+5,Western Australia,50103,Manjimup,501031018,Donnybrook - Balingup
+5,Western Australia,50103,Manjimup,501031019,Manjimup
+5,Western Australia,50103,Manjimup,501031020,Pemberton
+5,Western Australia,50201,Mandurah,502011021,Dawesville - Bouvard
+5,Western Australia,50201,Mandurah,502011022,Falcon - Wannanup
+5,Western Australia,50201,Mandurah,502011023,Greenfields
+5,Western Australia,50201,Mandurah,502011024,Halls Head - Erskine
+5,Western Australia,50201,Mandurah,502011025,Mandurah
+5,Western Australia,50201,Mandurah,502011026,Mandurah - East
+5,Western Australia,50201,Mandurah,502011027,Mandurah - North
+5,Western Australia,50201,Mandurah,502011028,Mandurah - South
+5,Western Australia,50201,Mandurah,502011029,Pinjarra
+5,Western Australia,50301,Cottesloe - Claremont,503011030,City Beach
+5,Western Australia,50301,Cottesloe - Claremont,503011031,Claremont (WA)
+5,Western Australia,50301,Cottesloe - Claremont,503011032,Cottesloe
+5,Western Australia,50301,Cottesloe - Claremont,503011033,Floreat
+5,Western Australia,50301,Cottesloe - Claremont,503011034,Mosman Park - Peppermint Grove
+5,Western Australia,50301,Cottesloe - Claremont,503011035,Nedlands - Dalkeith - Crawley
+5,Western Australia,50301,Cottesloe - Claremont,503011036,Swanbourne - Mount Claremont
+5,Western Australia,50302,Perth City,503021037,Kings Park (WA)
+5,Western Australia,50302,Perth City,503021038,Mount Hawthorn - Leederville
+5,Western Australia,50302,Perth City,503021039,Mount Lawley - Inglewood
+5,Western Australia,50302,Perth City,503021040,North Perth
+5,Western Australia,50302,Perth City,503021042,Subiaco - Shenton Park
+5,Western Australia,50302,Perth City,503021043,Wembley - West Leederville - Glendalough
+5,Western Australia,50302,Perth City,503021295,East Perth
+5,Western Australia,50302,Perth City,503021296,Perth (North) - Highgate
+5,Western Australia,50302,Perth City,503021297,Perth (West) - Northbridge
+5,Western Australia,50401,Bayswater - Bassendean,504011044,Bassendean - Eden Hill - Ashfield
+5,Western Australia,50401,Bayswater - Bassendean,504011045,Bayswater - Embleton - Bedford
+5,Western Australia,50401,Bayswater - Bassendean,504011046,Maylands
+5,Western Australia,50401,Bayswater - Bassendean,504011047,Morley
+5,Western Australia,50401,Bayswater - Bassendean,504011048,Noranda
+5,Western Australia,50402,Mundaring,504021049,Chidlow
+5,Western Australia,50402,Mundaring,504021050,Glen Forrest - Darlington
+5,Western Australia,50402,Mundaring,504021051,Helena Valley - Koongamia
+5,Western Australia,50402,Mundaring,504021052,Malmalling - Reservoir
+5,Western Australia,50402,Mundaring,504021053,Mundaring
+5,Western Australia,50402,Mundaring,504021054,Swan View - Greenmount - Midvale
+5,Western Australia,50403,Swan,504031055,Avon Valley National Park
+5,Western Australia,50403,Swan,504031056,Ballajura
+5,Western Australia,50403,Swan,504031057,Beechboro
+5,Western Australia,50403,Swan,504031058,Bullsbrook
+5,Western Australia,50403,Swan,504031060,Gidgegannup
+5,Western Australia,50403,Swan,504031061,Hazelmere - Guildford
+5,Western Australia,50403,Swan,504031062,Lockridge - Kiara
+5,Western Australia,50403,Swan,504031063,Malaga
+5,Western Australia,50403,Swan,504031064,Melaleuca - Lexia
+5,Western Australia,50403,Swan,504031065,Middle Swan - Herne Hill
+5,Western Australia,50403,Swan,504031066,Midland - Guildford
+5,Western Australia,50403,Swan,504031067,Stratton - Jane Brook
+5,Western Australia,50403,Swan,504031068,The Vines
+5,Western Australia,50403,Swan,504031069,Walyunga National Park
+5,Western Australia,50403,Swan,504031298,Aveley
+5,Western Australia,50403,Swan,504031299,Brabham - Henley Brook
+5,Western Australia,50403,Swan,504031300,Ellenbrook
+5,Western Australia,50501,Joondalup,505011070,Craigie - Beldon
+5,Western Australia,50501,Joondalup,505011071,Currambine - Kinross
+5,Western Australia,50501,Joondalup,505011072,Duncraig
+5,Western Australia,50501,Joondalup,505011073,Greenwood - Warwick
+5,Western Australia,50501,Joondalup,505011074,Heathridge - Connolly
+5,Western Australia,50501,Joondalup,505011075,Hillarys
+5,Western Australia,50501,Joondalup,505011076,Iluka - Burns Beach
+5,Western Australia,50501,Joondalup,505011077,Joondalup - Edgewater
+5,Western Australia,50501,Joondalup,505011078,Kingsley
+5,Western Australia,50501,Joondalup,505011079,Mullaloo - Kallaroo
+5,Western Australia,50501,Joondalup,505011080,Ocean Reef
+5,Western Australia,50501,Joondalup,505011081,Padbury
+5,Western Australia,50501,Joondalup,505011082,Sorrento - Marmion
+5,Western Australia,50501,Joondalup,505011083,Woodvale
+5,Western Australia,50502,Stirling,505021084,Balcatta - Hamersley
+5,Western Australia,50502,Stirling,505021085,Balga - Mirrabooka
+5,Western Australia,50502,Stirling,505021087,Herdsman
+5,Western Australia,50502,Stirling,505021088,Innaloo - Doubleview
+5,Western Australia,50502,Stirling,505021089,Karrinyup - Gwelup - Carine
+5,Western Australia,50502,Stirling,505021090,Nollamara - Westminster
+5,Western Australia,50502,Stirling,505021091,Osborne Park Industrial
+5,Western Australia,50502,Stirling,505021092,Scarborough
+5,Western Australia,50502,Stirling,505021093,Stirling - Osborne Park
+5,Western Australia,50502,Stirling,505021094,Trigg - North Beach - Watermans Bay
+5,Western Australia,50502,Stirling,505021095,Tuart Hill - Joondanna
+5,Western Australia,50502,Stirling,505021096,Wembley Downs - Churchlands - Woodlands
+5,Western Australia,50502,Stirling,505021097,Yokine - Coolbinia - Menora
+5,Western Australia,50502,Stirling,505021301,Dianella - North
+5,Western Australia,50502,Stirling,505021302,Dianella - South
+5,Western Australia,50503,Wanneroo,505031098,Alexander Heights - Koondoola
+5,Western Australia,50503,Wanneroo,505031099,Butler - Merriwa - Ridgewood
+5,Western Australia,50503,Wanneroo,505031100,Carramar
+5,Western Australia,50503,Wanneroo,505031101,Clarkson
+5,Western Australia,50503,Wanneroo,505031102,Girrawheen
+5,Western Australia,50503,Wanneroo,505031104,Marangaroo
+5,Western Australia,50503,Wanneroo,505031105,Mindarie - Quinns Rocks - Jindalee
+5,Western Australia,50503,Wanneroo,505031106,Neerabup National Park
+5,Western Australia,50503,Wanneroo,505031107,Tapping - Ashby - Sinagra
+5,Western Australia,50503,Wanneroo,505031255,Alkimos - Eglinton
+5,Western Australia,50503,Wanneroo,505031256,Carabooda - Pinjar
+5,Western Australia,50503,Wanneroo,505031257,Two Rocks
+5,Western Australia,50503,Wanneroo,505031258,Yanchep
+5,Western Australia,50503,Wanneroo,505031303,Hocking - Pearsall
+5,Western Australia,50503,Wanneroo,505031304,Landsdale
+5,Western Australia,50503,Wanneroo,505031305,Madeley - Darch
+5,Western Australia,50503,Wanneroo,505031306,Wanneroo - Sinagra
+5,Western Australia,50601,Armadale,506011110,Armadale - Wungong - Brookdale
+5,Western Australia,50601,Armadale,506011111,Ashendon - Lesley
+5,Western Australia,50601,Armadale,506011112,Camillo - Champion Lakes
+5,Western Australia,50601,Armadale,506011114,Kelmscott
+5,Western Australia,50601,Armadale,506011115,Mount Nasura - Mount Richon - Bedfordale
+5,Western Australia,50601,Armadale,506011116,Roleystone
+5,Western Australia,50601,Armadale,506011117,Seville Grove
+5,Western Australia,50601,Armadale,506011307,Harrisdale
+5,Western Australia,50601,Armadale,506011308,Piara Waters - Forrestdale
+5,Western Australia,50602,Belmont - Victoria Park,506021118,Belmont - Ascot - Redcliffe
+5,Western Australia,50602,Belmont - Victoria Park,506021119,East Victoria Park - Carlisle
+5,Western Australia,50602,Belmont - Victoria Park,506021120,Kewdale Commercial
+5,Western Australia,50602,Belmont - Victoria Park,506021121,Perth Airport
+5,Western Australia,50602,Belmont - Victoria Park,506021123,Victoria Park - Lathlain - Burswood
+5,Western Australia,50602,Belmont - Victoria Park,506021309,Cloverdale
+5,Western Australia,50602,Belmont - Victoria Park,506021310,Kewdale
+5,Western Australia,50602,Belmont - Victoria Park,506021311,Rivervale
+5,Western Australia,50603,Canning,506031124,Bentley - Wilson - St James
+5,Western Australia,50603,Canning,506031125,Canning Vale - West
+5,Western Australia,50603,Canning,506031126,Canning Vale Commercial
+5,Western Australia,50603,Canning,506031127,Cannington - Queens Park
+5,Western Australia,50603,Canning,506031128,Parkwood - Ferndale - Lynwood
+5,Western Australia,50603,Canning,506031129,Riverton - Shelley - Rossmoyne
+5,Western Australia,50603,Canning,506031130,Welshpool
+5,Western Australia,50603,Canning,506031131,Willetton
+5,Western Australia,50604,Gosnells,506041132,Beckenham - Kenwick - Langford
+5,Western Australia,50604,Gosnells,506041133,Canning Vale - East
+5,Western Australia,50604,Gosnells,506041134,Gosnells
+5,Western Australia,50604,Gosnells,506041135,Huntingdale - Southern River
+5,Western Australia,50604,Gosnells,506041136,Maddington - Orange Grove - Martin
+5,Western Australia,50604,Gosnells,506041137,Thornlie
+5,Western Australia,50605,Kalamunda,506051138,Forrestfield - Wattle Grove
+5,Western Australia,50605,Kalamunda,506051139,High Wycombe
+5,Western Australia,50605,Kalamunda,506051140,Kalamunda - Maida Vale - Gooseberry Hill
+5,Western Australia,50605,Kalamunda,506051141,Lesmurdie - Bickley - Carmel
+5,Western Australia,50606,Serpentine - Jarrahdale,506061142,Byford
+5,Western Australia,50606,Serpentine - Jarrahdale,506061143,Mundijong
+5,Western Australia,50606,Serpentine - Jarrahdale,506061144,Serpentine - Jarrahdale
+5,Western Australia,50607,South Perth,506071145,Como
+5,Western Australia,50607,South Perth,506071146,Manning - Waterford
+5,Western Australia,50607,South Perth,506071147,South Perth - Kensington
+5,Western Australia,50701,Cockburn,507011148,Banjup
+5,Western Australia,50701,Cockburn,507011150,Bibra Industrial
+5,Western Australia,50701,Cockburn,507011151,Bibra Lake
+5,Western Australia,50701,Cockburn,507011152,Coogee
+5,Western Australia,50701,Cockburn,507011153,Coolbellup
+5,Western Australia,50701,Cockburn,507011154,Hamilton Hill
+5,Western Australia,50701,Cockburn,507011155,Henderson
+5,Western Australia,50701,Cockburn,507011158,North Coogee
+5,Western Australia,50701,Cockburn,507011159,South Lake - Cockburn Central
+5,Western Australia,50701,Cockburn,507011160,Spearwood
+5,Western Australia,50701,Cockburn,507011161,Success - Hammond Park
+5,Western Australia,50701,Cockburn,507011163,Yangebup
+5,Western Australia,50701,Cockburn,507011259,Beeliar - Wattleup
+5,Western Australia,50701,Cockburn,507011260,Jandakot
+5,Western Australia,50702,Fremantle,507021164,East Fremantle
+5,Western Australia,50702,Fremantle,507021165,Fremantle
+5,Western Australia,50702,Fremantle,507021166,Fremantle - South
+5,Western Australia,50702,Fremantle,507021167,O`Connor (WA)
+5,Western Australia,50703,Kwinana,507031169,Wellard (West) - Bertram
+5,Western Australia,50703,Kwinana,507031170,Calista
+5,Western Australia,50703,Kwinana,507031172,Hope Valley - Postans
+5,Western Australia,50703,Kwinana,507031173,Kwinana Industrial
+5,Western Australia,50703,Kwinana,507031174,Parmelia - Orelia
+5,Western Australia,50703,Kwinana,507031261,Casuarina - Wandi
+5,Western Australia,50704,Melville,507041175,Applecross - Ardross
+5,Western Australia,50704,Melville,507041176,Bateman
+5,Western Australia,50704,Melville,507041177,Bicton - Palmyra
+5,Western Australia,50704,Melville,507041178,Booragoon
+5,Western Australia,50704,Melville,507041179,Bull Creek
+5,Western Australia,50704,Melville,507041180,Leeming
+5,Western Australia,50704,Melville,507041181,Melville
+5,Western Australia,50704,Melville,507041182,Murdoch - Kardinya
+5,Western Australia,50704,Melville,507041183,Willagee
+5,Western Australia,50704,Melville,507041184,Winthrop
+5,Western Australia,50705,Rockingham,507051186,Cooloongup
+5,Western Australia,50705,Rockingham,507051187,Port Kennedy
+5,Western Australia,50705,Rockingham,507051188,Rockingham
+5,Western Australia,50705,Rockingham,507051189,Rockingham Lakes
+5,Western Australia,50705,Rockingham,507051190,Safety Bay - Shoalwater
+5,Western Australia,50705,Rockingham,507051191,Singleton - Golden Bay - Secret Harbour
+5,Western Australia,50705,Rockingham,507051192,Waikiki
+5,Western Australia,50705,Rockingham,507051193,Warnbro
+5,Western Australia,50705,Rockingham,507051312,Baldivis - North
+5,Western Australia,50705,Rockingham,507051313,Baldivis - South
+5,Western Australia,50705,Rockingham,507051314,Karnup
+5,Western Australia,50901,Albany,509011225,Albany
+5,Western Australia,50901,Albany,509011226,Albany Surrounds
+5,Western Australia,50901,Albany,509011227,Bayonet Head - Lower King
+5,Western Australia,50901,Albany,509011228,Denmark
+5,Western Australia,50901,Albany,509011229,Gnowangerup
+5,Western Australia,50901,Albany,509011230,Katanning
+5,Western Australia,50901,Albany,509011231,Kojonup
+5,Western Australia,50901,Albany,509011232,Little Grove - Elleker
+5,Western Australia,50901,Albany,509011233,McKail - Willyung
+5,Western Australia,50901,Albany,509011234,Plantagenet
+5,Western Australia,50901,Albany,509011235,Stirling Range National Park
+5,Western Australia,50902,Wheat Belt - North,509021236,Chittering
+5,Western Australia,50902,Wheat Belt - North,509021237,Cunderdin
+5,Western Australia,50902,Wheat Belt - North,509021238,Dowerin
+5,Western Australia,50902,Wheat Belt - North,509021239,Gingin - Dandaragan
+5,Western Australia,50902,Wheat Belt - North,509021240,Merredin
+5,Western Australia,50902,Wheat Belt - North,509021241,Moora
+5,Western Australia,50902,Wheat Belt - North,509021242,Mukinbudin
+5,Western Australia,50902,Wheat Belt - North,509021243,Northam
+5,Western Australia,50902,Wheat Belt - North,509021244,Toodyay
+5,Western Australia,50902,Wheat Belt - North,509021245,York - Beverley
+5,Western Australia,50903,Wheat Belt - South,509031246,Brookton
+5,Western Australia,50903,Wheat Belt - South,509031247,Kulin
+5,Western Australia,50903,Wheat Belt - South,509031248,Murray
+5,Western Australia,50903,Wheat Belt - South,509031249,Narrogin
+5,Western Australia,50903,Wheat Belt - South,509031250,Wagin
+5,Western Australia,51001,Kimberley,510011262,Broome
+5,Western Australia,51001,Kimberley,510011263,Derby - West Kimberley
+5,Western Australia,51001,Kimberley,510011264,Halls Creek
+5,Western Australia,51001,Kimberley,510011265,Kununurra
+5,Western Australia,51001,Kimberley,510011266,Roebuck
+5,Western Australia,51002,East Pilbara,510021267,East Pilbara
+5,Western Australia,51002,East Pilbara,510021268,Newman
+5,Western Australia,51002,East Pilbara,510021269,Port Hedland
+5,Western Australia,51002,East Pilbara,510021270,South Hedland
+5,Western Australia,51003,West Pilbara,510031271,Ashburton (WA)
+5,Western Australia,51003,West Pilbara,510031272,Karratha
+5,Western Australia,51003,West Pilbara,510031273,Roebourne
+5,Western Australia,51101,Esperance,511011274,Esperance
+5,Western Australia,51101,Esperance,511011275,Esperance Surrounds
+5,Western Australia,51102,Gascoyne,511021276,Carnarvon
+5,Western Australia,51102,Gascoyne,511021277,Exmouth
+5,Western Australia,51103,Goldfields,511031278,Boulder
+5,Western Australia,51103,Goldfields,511031279,Kalgoorlie
+5,Western Australia,51103,Goldfields,511031280,Kalgoorlie - North
+5,Western Australia,51103,Goldfields,511031281,Kalgoorlie Airport
+5,Western Australia,51103,Goldfields,511031282,Kambalda - Coolgardie - Norseman
+5,Western Australia,51103,Goldfields,511031283,Leinster - Leonora
+5,Western Australia,51103,Goldfields,511031284,Trafalgar (WA)
+5,Western Australia,51104,Mid West,511041285,Geraldton
+5,Western Australia,51104,Mid West,511041286,Geraldton - East
+5,Western Australia,51104,Mid West,511041287,Geraldton - North
+5,Western Australia,51104,Mid West,511041288,Geraldton - South
+5,Western Australia,51104,Mid West,511041289,Irwin
+5,Western Australia,51104,Mid West,511041290,Meekatharra
+5,Western Australia,51104,Mid West,511041291,Morawa
+5,Western Australia,51104,Mid West,511041292,Northampton - Mullewa - Greenough
+6,Tasmania,60101,Brighton,601011001,Bridgewater - Gagebrook
+6,Tasmania,60101,Brighton,601011002,Brighton - Pontville
+6,Tasmania,60101,Brighton,601011003,Old Beach - Otago
+6,Tasmania,60102,Hobart - North East,601021004,Bellerive - Rosny
+6,Tasmania,60102,Hobart - North East,601021005,Cambridge
+6,Tasmania,60102,Hobart - North East,601021006,Geilston Bay - Risdon
+6,Tasmania,60102,Hobart - North East,601021007,Howrah - Tranmere
+6,Tasmania,60102,Hobart - North East,601021008,Lindisfarne - Rose Bay
+6,Tasmania,60102,Hobart - North East,601021009,Mornington - Warrane
+6,Tasmania,60102,Hobart - North East,601021010,Risdon Vale
+6,Tasmania,60102,Hobart - North East,601021011,Rokeby
+6,Tasmania,60102,Hobart - North East,601021012,South Arm
+6,Tasmania,60103,Hobart - North West,601031013,Austins Ferry - Granton
+6,Tasmania,60103,Hobart - North West,601031014,Berriedale - Chigwell
+6,Tasmania,60103,Hobart - North West,601031015,Claremont (Tas.)
+6,Tasmania,60103,Hobart - North West,601031016,Derwent Park - Lutana
+6,Tasmania,60103,Hobart - North West,601031017,Glenorchy
+6,Tasmania,60103,Hobart - North West,601031018,Montrose - Rosetta
+6,Tasmania,60103,Hobart - North West,601031019,Moonah
+6,Tasmania,60103,Hobart - North West,601031020,New Norfolk
+6,Tasmania,60103,Hobart - North West,601031021,West Moonah
+6,Tasmania,60104,Hobart - South and West,601041022,Kingston - Huntingfield
+6,Tasmania,60104,Hobart - South and West,601041023,Kingston Beach - Blackmans Bay
+6,Tasmania,60104,Hobart - South and West,601041024,Margate - Snug
+6,Tasmania,60104,Hobart - South and West,601041025,Mount Wellington
+6,Tasmania,60104,Hobart - South and West,601041026,Taroona - Bonnet Hill
+6,Tasmania,60105,Hobart Inner,601051027,Hobart
+6,Tasmania,60105,Hobart Inner,601051028,Lenah Valley - Mount Stuart
+6,Tasmania,60105,Hobart Inner,601051029,Mount Nelson - Dynnyrne
+6,Tasmania,60105,Hobart Inner,601051030,New Town
+6,Tasmania,60105,Hobart Inner,601051031,Sandy Bay
+6,Tasmania,60105,Hobart Inner,601051032,South Hobart - Fern Tree
+6,Tasmania,60105,Hobart Inner,601051033,West Hobart
+6,Tasmania,60106,Sorell - Dodges Ferry,601061034,Dodges Ferry - Lewisham
+6,Tasmania,60106,Sorell - Dodges Ferry,601061035,Sorell - Richmond
+6,Tasmania,60201,Launceston,602011036,Invermay
+6,Tasmania,60201,Launceston,602011037,Kings Meadows - Punchbowl
+6,Tasmania,60201,Launceston,602011038,Launceston
+6,Tasmania,60201,Launceston,602011039,Legana
+6,Tasmania,60201,Launceston,602011040,Mowbray
+6,Tasmania,60201,Launceston,602011041,Newnham - Mayfield
+6,Tasmania,60201,Launceston,602011042,Newstead
+6,Tasmania,60201,Launceston,602011043,Norwood (Tas.)
+6,Tasmania,60201,Launceston,602011044,Prospect Vale - Blackstone
+6,Tasmania,60201,Launceston,602011045,Ravenswood
+6,Tasmania,60201,Launceston,602011046,Riverside
+6,Tasmania,60201,Launceston,602011047,South Launceston
+6,Tasmania,60201,Launceston,602011048,Summerhill - Prospect
+6,Tasmania,60201,Launceston,602011049,Trevallyn
+6,Tasmania,60201,Launceston,602011050,Waverley - St Leonards
+6,Tasmania,60201,Launceston,602011051,West Launceston
+6,Tasmania,60201,Launceston,602011052,Youngtown - Relbia
+6,Tasmania,60202,Meander Valley - West Tamar,602021053,Beauty Point - Beaconsfield
+6,Tasmania,60202,Meander Valley - West Tamar,602021054,Deloraine
+6,Tasmania,60202,Meander Valley - West Tamar,602021055,Grindelwald - Lanena
+6,Tasmania,60202,Meander Valley - West Tamar,602021056,Hadspen - Carrick
+6,Tasmania,60202,Meander Valley - West Tamar,602021057,Westbury
+6,Tasmania,60203,North East,602031058,Dilston - Lilydale
+6,Tasmania,60203,North East,602031059,George Town
+6,Tasmania,60203,North East,602031060,Longford
+6,Tasmania,60203,North East,602031061,Northern Midlands
+6,Tasmania,60203,North East,602031062,Perth - Evandale
+6,Tasmania,60203,North East,602031064,St Helens - Scamander
+6,Tasmania,60203,North East,602031099,Flinders and Cape Barren Islands
+6,Tasmania,60203,North East,602031100,Scottsdale - Bridport
+6,Tasmania,60301,Central Highlands (Tas.),603011065,Central Highlands
+6,Tasmania,60301,Central Highlands (Tas.),603011066,Derwent Valley
+6,Tasmania,60301,Central Highlands (Tas.),603011067,Southern Midlands
+6,Tasmania,60301,Central Highlands (Tas.),603011068,Wilderness - East
+6,Tasmania,60302,Huon - Bruny Island,603021069,Bruny Island - Kettering
+6,Tasmania,60302,Huon - Bruny Island,603021070,Cygnet
+6,Tasmania,60302,Huon - Bruny Island,603021071,Geeveston - Dover
+6,Tasmania,60302,Huon - Bruny Island,603021072,Huonville - Franklin
+6,Tasmania,60303,South East Coast,603031073,Forestier - Tasman
+6,Tasmania,60303,South East Coast,603031074,Triabunna - Bicheno
+6,Tasmania,60401,Burnie - Ulverstone,604011075,Acton - Upper Burnie
+6,Tasmania,60401,Burnie - Ulverstone,604011076,Burnie - Ulverstone Surrounds
+6,Tasmania,60401,Burnie - Ulverstone,604011077,Burnie - Wivenhoe
+6,Tasmania,60401,Burnie - Ulverstone,604011078,Parklands - Camdale
+6,Tasmania,60401,Burnie - Ulverstone,604011079,Penguin - Sulphur Creek
+6,Tasmania,60401,Burnie - Ulverstone,604011080,Romaine - Havenview
+6,Tasmania,60401,Burnie - Ulverstone,604011081,Somerset
+6,Tasmania,60401,Burnie - Ulverstone,604011082,Ulverstone
+6,Tasmania,60401,Burnie - Ulverstone,604011083,West Ulverstone
+6,Tasmania,60401,Burnie - Ulverstone,604011084,Wynyard
+6,Tasmania,60402,Devonport,604021085,Devonport
+6,Tasmania,60402,Devonport,604021086,East Devonport
+6,Tasmania,60402,Devonport,604021087,Latrobe
+6,Tasmania,60402,Devonport,604021088,Miandetta - Don
+6,Tasmania,60402,Devonport,604021089,Port Sorell
+6,Tasmania,60402,Devonport,604021090,Quoiba - Spreyton
+6,Tasmania,60402,Devonport,604021091,Sheffield - Railton
+6,Tasmania,60402,Devonport,604021092,Turners Beach - Forth
+6,Tasmania,60403,West Coast,604031093,King Island
+6,Tasmania,60403,West Coast,604031094,North West
+6,Tasmania,60403,West Coast,604031095,Smithton
+6,Tasmania,60403,West Coast,604031096,Waratah
+6,Tasmania,60403,West Coast,604031097,West Coast (Tas.)
+6,Tasmania,60403,West Coast,604031098,Wilderness - West
